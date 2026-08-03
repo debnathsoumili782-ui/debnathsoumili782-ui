@@ -66,22 +66,6 @@ An AI-powered biomedical waste classification system developed using **MobileNet
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=debnathsoumili782-ui&show_icons=true&theme=tokyonight" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debnathsoumili782-ui&layout=compact&theme=tokyonight" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=debnathsoumili782-ui&theme=tokyonight" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/debnathsoumili782-ui
