@@ -1,16 +1,93 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Soumili Debnath</h1>
+<h3 align="center">B.Tech Computer Science & Engineering Student | Python & AI Enthusiast</h3>
 
-<!--
-**debnathsoumili782-ui/debnathsoumili782-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Passionate about Artificial Intelligence, Computer Vision, Machine Learning, and Web Development.
+  I enjoy building practical applications that solve real-world problems through technology.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+- 🎓 B.Tech in Computer Science & Engineering
+- 🌱 Currently exploring **Artificial Intelligence**, **Computer Vision**, and **Deep Learning**
+- 💻 Experienced with **Python, Flask, TensorFlow, HTML, CSS, JavaScript, and MySQL**
+- 🚀 Interested in building intelligent web applications
+- 📚 Always learning new technologies and improving my development skills
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- Python
+- JavaScript
+- HTML5
+- CSS3
+- SQL
+
+### Frameworks & Libraries
+- Flask
+- TensorFlow
+- Keras
+- MobileNetV2
+
+### Database
+- SQLite
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- PyCharm
+- VS Code
+
+---
+
+## 🚀 Featured Project
+
+### ♻️ WasteVision AI
+
+An AI-powered biomedical waste classification system developed using **MobileNetV2**, **TensorFlow**, and **Flask**.
+
+### Key Features
+
+- 🔐 User Authentication
+- 📷 Live Camera Detection
+- 🖼️ Image Upload Classification
+- 🧠 Deep Learning-based Prediction
+- 📊 Detection History
+- 📖 Biomedical Waste Guide
+- 💻 Responsive User Interface
+
+🔗 Repository:
+**https://github.com/debnathsoumili782-ui/WasteVision_AI**
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=debnathsoumili782-ui&show_icons=true&theme=tokyonight" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debnathsoumili782-ui&layout=compact&theme=tokyonight" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=debnathsoumili782-ui&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/debnathsoumili782-ui
+
+---
+
+<p align="center">
+⭐ Thank you for visiting my GitHub profile!
+</p>
